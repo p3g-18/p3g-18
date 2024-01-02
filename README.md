@@ -6,7 +6,7 @@ Outside of programming I do gaming and i love weight training
 illustration of web developer with laptop
 
 What I'm doing now
-🔭 I’m currently working on swiggy like clone using reactjs
+🔭 I’m currently working on food delivery app using reactjs
 🌱 I’m currently learning Reactjs from Namaste React by Akshay Saini
 
 
