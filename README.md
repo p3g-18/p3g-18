@@ -6,8 +6,8 @@ Outside of programming I do gaming and i love weight training
 illustration of web developer with laptop
 
 What I'm doing now
-🔭 I’m currently working on Mutube a youtube clone using reactjs
-🌱 I’m currently learning Reactjs from Namaste React by Akshay Saini
+ I’m currently working on Mutube a youtube clone using reactjs
+ I’m currently learning Reactjs from Namaste React by Akshay Saini
 
 
 My Languages and tools
