@@ -11,4 +11,4 @@ What I'm doing now
 
 
 My Languages and tools
-HTML5, CSS3, Javascript, Reactjs, Tailwind CSS, redux toolkit, Appwrite
+HTML5, CSS3, Javascript, Reactjs, Tailwind CSS, redux toolkit, Appwrite, firebase
